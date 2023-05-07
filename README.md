@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on examster.in<br>👯 I’m looking to collaborate on javascript project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C#.Net<br>💬 Ask me about java <br>
+🔭 I’m currently working on examster.in<br>👯 I’m looking to collaborate on javascript project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C#.Net<br>💬 Ask me about java, javascript, C#.Net<br>
 
 
 ## 🌐 Socials:
